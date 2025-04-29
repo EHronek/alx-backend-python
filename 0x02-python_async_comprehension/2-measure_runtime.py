@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """defines a measure_runtime coroutine that will execute async_comprehension
 four times in parallel using asyncio.gather"""
 import asyncio
