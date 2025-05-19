@@ -8,7 +8,6 @@ from unittest.mock import patch, PropertyMock, Mock
 import unittest
 
 
-
 class TestGithubOrgClient(unittest.TestCase):
     """ Class for Testing Github Org Client """
 
